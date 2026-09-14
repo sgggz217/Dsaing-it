@@ -25,3 +25,7 @@ public:
         return {d,c};
     }
 }; 
+
+
+//takes the first element form the loop ie 0 from i's value, checks it against all elements w/ j's value
+//if none, i increments, and j repeats after reset
